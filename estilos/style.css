@@ -1,0 +1,17 @@
+.color{
+    background-color: blueviolet;
+}
+
+.acercar{
+    overflow: hidden;
+}
+.acercar img{
+    transition: all 1.5s;
+}
+
+.acercar:hover img{
+    transform: scale(1.5) ;
+}
+.bg{
+    background-color: black;
+}
